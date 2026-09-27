@@ -32,7 +32,7 @@
 #  USER_PROFILE.INI  //  v2.6
 # ──────────────────────────────
 identity:
-  handle: "@TUO-USERNAME"
+  handle: "@Bitfarmy"
   role: "Developer & Digital Creator"
   status: "Compiling dreams into reality..."
 
